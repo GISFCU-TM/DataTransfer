@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/uploaddownload/Upload-uploaddownload.iml" filepath="$PROJECT_DIR$/uploaddownload/Upload-uploaddownload.iml" group="UploadData/uploaddownload" />
+      <module fileurl="file://$PROJECT_DIR$/UploadData.iml" filepath="$PROJECT_DIR$/UploadData.iml" group="UploadData" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="UploadData/app" />
+      <module fileurl="file://$PROJECT_DIR$/datatransfer/datatransfer.iml" filepath="$PROJECT_DIR$/datatransfer/datatransfer.iml" group="UploadData/datatransfer" />
+      <module fileurl="file://$PROJECT_DIR$/uploaddownload/uploaddownload.iml" filepath="$PROJECT_DIR$/uploaddownload/uploaddownload.iml" group="UploadData/uploaddownload" />
+    </modules>
+  </component>
+</project>
